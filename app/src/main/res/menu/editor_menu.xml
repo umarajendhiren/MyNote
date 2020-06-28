@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/delete"
+          android:title="Delete"
+          app:showAsAction="never">
+    </item>
+
+    <item android:id="@+id/print"
+          android:title="Print"
+          app:showAsAction="never">
+    </item>
+    <item android:id="@+id/save"
+          android:title="Save"
+          app:showAsAction="always"/>
+
+    <item android:id="@+id/share"
+          android:title="Share"
+          app:showAsAction="always"
+          android:icon="@drawable/ic_menu_share">
+
+        <menu>
+            <item android:id="@+id/pdfNote" android:title="@string/pdf_file"/>
+            <item android:id="@+id/textNote" android:title="@string/text_file"/>
+            <item android:id="@+id/imageNote" android:title="@string/image_file"/>
+
+
+
+        </menu>
+    </item>
+
+
+
+
+</menu>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyNote</string>
+    <string name="enter_note_title">Enter Title</string>
+    <string name="note_hint">Note</string>
+    <string name="pdf_file">Pdf File</string>
+    <string name="text_file">Text File</string>
+    <string name="image_file">Image File</string>
+    <string name="sort">Sort</string>
+    <string name="view">View</string>
+    <string name="sample_data">Add Sample Note</string>
+    <string name="title_activity_add_edit">Add Edit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
