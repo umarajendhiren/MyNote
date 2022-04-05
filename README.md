@@ -2,11 +2,15 @@
 Project Using ROOM Database
 
 # App Features
-* User can create new Note or edit already existing Note.
-* User can delete note by left or right swipe.
-* User can sort notes by created date or last modified data or title.
-* User can share note with others.
-* User can print the notes.
+* A user can create a new note or edit an already existing note.
+
+* A user can delete a note by left or right swiping.
+
+* A user can sort notes by created date or last modified data or title.
+
+* A user can share a note with others.
+
+* The user can print the notes. ﻿
 
 
 # Libraries Used:
